@@ -1,0 +1,13 @@
+# virtual env
+*venv*
+
+# all caches
+*cache*
+
+# .ini files
+*.ini
+
+# log files
+*.log
+
+
